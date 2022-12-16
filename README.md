@@ -4,7 +4,7 @@ Unfortunately, establishing accurate and robust methods in such a context is dif
 Most approaches exploit only clinical data and gene expression information without considering other resources, such as pathways, capable of shedding light on the comprehension of such phenomena. 
 We present a new method for drug response prediction which exploits pathway alteration information retrieved by PHENSIM.
 
-![alt text](https://github.com/Hela06/Drug-Response-Prediction/docs/images/Workflow-drug-prediction-1-6step?raw=true)
+![alt text](https://github.com/Hela06/Drug-Response-Prediction/blob/main/docs/images/Workflow-drug-prediction-1-6step.png)
 
 We propose a workflow consisting of 6 main steps. 
 First, TCGA-curated drug response clinical data [1] are retrieved and preprocessed as described in [2].  

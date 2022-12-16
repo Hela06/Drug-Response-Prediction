@@ -26,10 +26,12 @@ normal_ctrl <- function(table,output){
         data.type = "Gene Expression Quantification", 
         sample.type = "Solid Tissue Normal"
       )
+      # Setting the working directory is useless since the directory structure of the repository starts at the root
       setwd("../../../../../")
       GDCdownload(query) 
       expr <- GDCprepare(query)
       
+      # Same as above, no working directory should be set
       setwd("./PhD Sistemi Complessi/Multilayer_microbiome_analysis_Ferro/Phensim_microbiome/Pipeline_TCGA_COAD_Phensim/ALLsamples_forUMATH/")
       ex_mat <- TCGAanalyze_Preprocessing(object = expr, cor.cut = 0.6)
       

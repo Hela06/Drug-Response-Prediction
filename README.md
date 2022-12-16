@@ -20,9 +20,11 @@ We propose a workflow consisting of 6 main steps.
 TODO
 
 # References
-[1]: https://pubmed.ncbi.nlm.nih.gov/27354694/ Ding Z, Zu S, Gu J. Evaluating the molecule-based prediction of clinical drug responses in cancer. Bioinformatics. 2016;32: 2891–2895."
 [1] Ding Z, Zu S, Gu J. Evaluating the molecule-based prediction of clinical drug responses in cancer. Bioinformatics. 2016;32: 2891–2895.
-[2]: https://www.nature.com/articles/s41467-022-30512-3 "Hermida LC, Gertz EM, Ruppin E. Predicting cancer prognosis and drug response from the tumor microbiome. Nat Commun. 2022;13: 2896."
 [2] Hermida LC, Gertz EM, Ruppin E. Predicting cancer prognosis and drug response from the tumor microbiome. Nat Commun. 2022;13: 2896.
-[3]: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009069  "Alaimo S, Rapicavoli RV, Marceca GP, La Ferlita A, Serebrennikova OB, Tsichlis PN, et al. PHENSIM: Phenotype Simulator. PLoS Comput Biol. 2021;17: e1009069."
 [3] Alaimo S, Rapicavoli RV, Marceca GP, La Ferlita A, Serebrennikova OB, Tsichlis PN, et al. PHENSIM: Phenotype Simulator. PLoS Comput Biol. 2021;17: e1009069.
+
+
+[1]: https://pubmed.ncbi.nlm.nih.gov/27354694/ Ding Z, Zu S, Gu J. Evaluating the molecule-based prediction of clinical drug responses in cancer. Bioinformatics. 2016;32: 2891–2895."
+[2]: https://www.nature.com/articles/s41467-022-30512-3 "Hermida LC, Gertz EM, Ruppin E. Predicting cancer prognosis and drug response from the tumor microbiome. Nat Commun. 2022;13: 2896."
+[3]: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009069  "Alaimo S, Rapicavoli RV, Marceca GP, La Ferlita A, Serebrennikova OB, Tsichlis PN, et al. PHENSIM: Phenotype Simulator. PLoS Comput Biol. 2021;17: e1009069."

@@ -21,7 +21,9 @@ TODO
 
 # References
 [1] Ding Z, Zu S, Gu J. Evaluating the molecule-based prediction of clinical drug responses in cancer. Bioinformatics. 2016;32: 2891–2895.
+
 [2] Hermida LC, Gertz EM, Ruppin E. Predicting cancer prognosis and drug response from the tumor microbiome. Nat Commun. 2022;13: 2896.
+
 [3] Alaimo S, Rapicavoli RV, Marceca GP, La Ferlita A, Serebrennikova OB, Tsichlis PN, et al. PHENSIM: Phenotype Simulator. PLoS Comput Biol. 2021;17: e1009069.
 
 
